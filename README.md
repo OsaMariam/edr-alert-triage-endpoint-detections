@@ -2,7 +2,7 @@
 
 **TryHackMe, Introduction to EDR | Core SOC Solutions Module | SOC Level 1 Path | July 2026**
 
-Triaging four live detections in an EDR console across a 55 host environment, using only the visibility the endpoint tooling provides.
+Triaging live detections in an EDR console across a 55 host environment, working three of the four alerts in the queue using only the visibility the endpoint tooling provides.
 
 **[Read the full report with all 11 screenshots (PDF)](EDR-Alert-Triage.pdf)** for the original document exactly as written, with every figure.
 
